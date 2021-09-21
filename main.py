@@ -1,6 +1,2 @@
-def topFiveMovies(a, b, c ,d, e):
-    return(a)
-    return(b)
-    return(c)
-    return(d)
-    return(e)
+def topFiveMovies():
+    return(" a ", " b ", " c ", " d ", " e ")
